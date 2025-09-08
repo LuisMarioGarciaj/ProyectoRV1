@@ -12,11 +12,12 @@ GameObject:
   - component: {fileID: 6820025018285266218}
   - component: {fileID: 6820025018285266217}
   - component: {fileID: 6820025018285266216}
-  - component: {fileID: 6820025018285266221}
   - component: {fileID: 589984420498051166}
-  - component: {fileID: 589984420498051165}
+  - component: {fileID: -3593521625858812371}
+  - component: {fileID: 2757854921691139641}
+  - component: {fileID: 8725526939790156404}
   m_Layer: 0
-  m_Name: Enemy (3)
+  m_Name: LavaDog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -100,18 +101,6 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &6820025018285266221
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6820025018285266231}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ae1e50f9b3cd1654682b1cf9edb26265, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!54 &589984420498051166
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -128,7 +117,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &589984420498051165
+--- !u!114 &-3593521625858812371
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -137,10 +126,38 @@ MonoBehaviour:
   m_GameObject: {fileID: 6820025018285266231}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 002a6beb0bfbfc24ca7dea338a0c2ff3, type: 3}
+  m_Script: {fileID: 11500000, guid: 9eab6b81a3ab5054887b512f044eab9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  life: 10
+  damage: 2
   moveSpeed: 5
+  chargeSpeed: 15
+  detectionRange: 10
+--- !u!114 &2757854921691139641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6820025018285266231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15cae4fa6b1956b40b8f1cfd226e1cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8725526939790156404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6820025018285266231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd81925bc7578c44a97c66b55d42ec2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &589984419271958410
 PrefabInstance:
   m_ObjectHideFlags: 0
