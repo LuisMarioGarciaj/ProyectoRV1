@@ -1,0 +1,16 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl tripo_mat_76184662-f1b0-4404-b8af-009009b6b9b7
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump tripo_image_76184662-f1b0-4404-b8af-009009b6b9b7_2.jpg
+map_Kd tripo_image_76184662-f1b0-4404-b8af-009009b6b9b7_0.jpg
+map_Ns tripo_image_76184662-f1b0-4404-b8af-009009b6b9b7_Roughness.jpg
+refl tripo_image_76184662-f1b0-4404-b8af-009009b6b9b7_Metallic.jpg

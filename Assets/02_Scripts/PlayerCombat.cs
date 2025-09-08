@@ -38,7 +38,7 @@ public class PlayerCombat : MonoBehaviour
     void HandleInput()
     {
         // disparo con click izquierdo
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButton(0))
         {
             TryAttack();
         }

@@ -66,6 +66,10 @@
     <Compile Include="Assets\02_Scripts\RigidbodyMovement.cs" />
     <Compile Include="Assets\02_Scripts\DungeonGenerator.cs" />
     <Compile Include="Assets\02_Scripts\KeyboardInput.cs" />
+    <Compile Include="Assets\02_Scripts\Pociones\SpeedPotion.cs" />
+    <Compile Include="Assets\02_Scripts\Pociones\FireRatePotion.cs" />
+    <Compile Include="Assets\02_Scripts\Pociones\HealthPotion.cs" />
+    <Compile Include="Assets\02_Scripts\Health.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
