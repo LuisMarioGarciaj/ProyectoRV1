@@ -1,0 +1,314 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material_tripo_part_0
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_0_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_0_normal.jpg
+
+newmtl Material_tripo_part_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_1_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_1_normal.jpg
+
+newmtl Material_tripo_part_10
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_10_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_10_normal.jpg
+
+newmtl Material_tripo_part_11
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_11_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_11_normal.jpg
+
+newmtl Material_tripo_part_12
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_12_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_12_normal.jpg
+
+newmtl Material_tripo_part_13
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_13_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_13_normal.jpg
+
+newmtl Material_tripo_part_14
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_14_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_14_normal.jpg
+
+newmtl Material_tripo_part_15
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_15_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_15_normal.jpg
+
+newmtl Material_tripo_part_16
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_16_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_16_normal.jpg
+
+newmtl Material_tripo_part_17
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_17_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_17_normal.jpg
+
+newmtl Material_tripo_part_18
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_18_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_18_normal.jpg
+
+newmtl Material_tripo_part_19
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_19_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_19_normal.jpg
+
+newmtl Material_tripo_part_2
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_2_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_2_normal.jpg
+
+newmtl Material_tripo_part_20
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_20_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_20_normal.jpg
+
+newmtl Material_tripo_part_21
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_21_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_21_normal.jpg
+
+newmtl Material_tripo_part_22
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_22_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_22_normal.jpg
+
+newmtl Material_tripo_part_23
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_23_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_23_normal.jpg
+
+newmtl Material_tripo_part_24
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_24_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_24_normal.jpg
+
+newmtl Material_tripo_part_25
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_25_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_25_normal.jpg
+
+newmtl Material_tripo_part_3
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_3_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_3_normal.jpg
+
+newmtl Material_tripo_part_4
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_4_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_4_normal.jpg
+
+newmtl Material_tripo_part_5
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_5_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_5_normal.jpg
+
+newmtl Material_tripo_part_6
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_6_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_6_normal.jpg
+
+newmtl Material_tripo_part_7
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_7_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_7_normal.jpg
+
+newmtl Material_tripo_part_8
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_8_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_8_normal.jpg
+
+newmtl Material_tripo_part_9
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd tripo_image_9_base_color.jpg
+map_Ns tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Roughness.jpg
+map_refl tripo_image_fe3c7caf-5657-4629-9899-60fa1f0725ff_Metallic.jpg
+map_Bump -bm 1.000000 tripo_image_9_normal.jpg

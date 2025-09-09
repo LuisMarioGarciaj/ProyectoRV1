@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\assets\\02_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\assets\\02_scripts\\dungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\dungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\assets\\02_scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\assets\\02_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\assets\\02_scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\assets\\02_scripts\\coinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\coinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|c:\\6to_semestre\\realidad virtual\\proyectorogue\\roguelikev4\\assets\\02_scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|c:\\6to_semestre\\realidad virtual\\proyectorogue\\roguelikev4\\assets\\02_scripts\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EBFA9E-BD8E-A5CE-6598-6C8832CB2BC4}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Chest.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Chest.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Chest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:49:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Coin.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Coin.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:44:44.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinUI.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\CoinUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\CoinUI.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\CoinUI.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\CoinUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:06:44.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\HealthUI.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\HealthUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:03:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Health.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Health.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:42:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:42:24.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DungeonGenerator.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\DungeonGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\DungeonGenerator.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\DungeonGenerator.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\DungeonGenerator.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAswO0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:27:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV4\\Assets\\02_Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:27:20.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

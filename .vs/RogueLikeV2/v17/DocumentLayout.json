@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\rockprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\rockprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\weaponpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\pociones\\speedpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\pociones\\speedpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\dungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\dungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|c:\\6to_semestre\\realidad virtual\\proyectorogue\\roguelikev2\\assets\\02_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\iinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\iinputprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\pociones\\fireratepotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\pociones\\fireratepotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\pociones\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\pociones\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|c:\\6to_semestre\\realidad virtual\\proyectorogue\\roguelikev2\\assets\\02_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\rigidbodymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\rigidbodymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\assets\\02_scripts\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3443425B-D9DD-D11C-2A29-5E75BA136730}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInputProvider.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\IInputProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\IInputProvider.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\IInputProvider.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\IInputProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:02:05.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\PlayerCombat.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\PlayerCombat.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowCgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:01:38.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Player.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:00:14.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DungeonGenerator.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\DungeonGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\DungeonGenerator.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\DungeonGenerator.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\DungeonGenerator.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAmwMYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:23:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeaponPickup.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\WeaponPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\WeaponPickup.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\WeaponPickup.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\WeaponPickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:01:20.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeedPotion.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Pociones\\SpeedPotion.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Pociones\\SpeedPotion.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Pociones\\SpeedPotion.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Pociones\\SpeedPotion.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:26:54.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RockProjectile.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\RockProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\RockProjectile.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\RockProjectile.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\RockProjectile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:01:29.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FireRatePotion.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Pociones\\FireRatePotion.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Pociones\\FireRatePotion.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Pociones\\FireRatePotion.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Pociones\\FireRatePotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:29:24.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Pociones\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Pociones\\HealthPotion.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Pociones\\HealthPotion.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Pociones\\HealthPotion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:30:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\Health.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\Health.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:36:49.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RigidbodyMovement.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\RigidbodyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\RigidbodyMovement.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\RigidbodyMovement.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\RigidbodyMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:01:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KeyboardInput.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\KeyboardInput.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\KeyboardInput.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\KeyboardInput.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\KeyboardInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T05:01:15.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMovement.cs",
+              "DocumentMoniker": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\IMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\IMovement.cs",
+              "ToolTip": "C:\\6TO_SEMESTRE\\REALIDAD VIRTUAL\\PROYECTOROGUE\\RogueLikeV2\\Assets\\02_Scripts\\IMovement.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\IMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T04:59:48.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
