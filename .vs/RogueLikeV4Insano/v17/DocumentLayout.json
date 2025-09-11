@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|d:\\descargas\\rogueinsainer\\roguelikev4insano\\assets\\02_scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\assets\\02_scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|d:\\descargas\\rogueinsainer\\roguelikev4insano\\assets\\02_scripts\\rockprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\rockprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|d:\\descargas\\rogueinsainer\\roguelikev4insano\\assets\\02_scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|d:\\descargas\\rogueinsainer\\roguelikev4insano\\assets\\02_scripts\\multiplayer\\redesjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\multiplayer\\redesjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\assets\\02_scripts\\multiplayer\\gestionredjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\multiplayer\\gestionredjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\assets\\02_scripts\\f11handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\f11handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\assets\\02_scripts\\moverfondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B501174B-CB96-8D87-2C5D-D850A45AF3B8}|Assembly-CSharp.csproj|solutionrelative:assets\\02_scripts\\moverfondo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\HealthUI.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\HealthUI.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T04:08:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\PlayerCombat.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\PlayerCombat.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAcwO0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:25:20.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RockProjectile.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\RockProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\RockProjectile.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\RockProjectile.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\RockProjectile.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T03:07:29.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:53:05.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionRedJugador.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\MultiPlayer\\GestionRedJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\MultiPlayer\\GestionRedJugador.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\MultiPlayer\\GestionRedJugador.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\MultiPlayer\\GestionRedJugador.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:50:22.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedesJugador.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\MultiPlayer\\RedesJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\MultiPlayer\\RedesJugador.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\MultiPlayer\\RedesJugador.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\MultiPlayer\\RedesJugador.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:47:39.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "F11Handler.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\F11Handler.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\F11Handler.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\F11Handler.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\F11Handler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T22:03:00.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoverFondo.cs",
+              "DocumentMoniker": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\MoverFondo.cs",
+              "RelativeDocumentMoniker": "Assets\\02_Scripts\\MoverFondo.cs",
+              "ToolTip": "D:\\Descargas\\ROgueinsainer\\RogueLikeV4Insano\\Assets\\02_Scripts\\MoverFondo.cs",
+              "RelativeToolTip": "Assets\\02_Scripts\\MoverFondo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:11:34.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
